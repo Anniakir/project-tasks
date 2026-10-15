@@ -7,3 +7,11 @@
 **Организация:** ООО «Кейсистемс»
 **Статус темы:** ждём утверждения
 **Стек:** Vue 3 + ASP.NET Core + PostgreSQL - код будет позже
+
+## Запуск клиента (frontend)
+
+cd frontend
+npm install
+npm run dev
+
+Открыть адрес Vite, обычно http://localhost:5173
